@@ -2,4 +2,4 @@
 
 This is a learning project for beginners.
 
-Each Chapter contains a small basic level project
+Each chapter contains a small basic level project
